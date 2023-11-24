@@ -1,2 +1,2 @@
 # 5A-Downloader
-video,audio downloader;m3u8\ts\hls to MP4.
+video or audio downloader;m3u8\ts\hls to MP4.
